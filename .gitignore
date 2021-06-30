@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+
+#files to be ignored
+# *.txt will ignore all txt files
